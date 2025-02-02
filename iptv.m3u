@@ -1,0 +1,11 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Variedades" tvg-id="arte-1" tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/Arte1.png" tvg-logo-small="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/Arte1.png" ,Arte 1
+https://super-cdn.link/arte1/index.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-id="bis" tvg-name="Bis" tvg-logo="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/Bis.png" tvg-logo-small="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/Bis.png" ,Bis
+https://super-cdn.link/bis/index.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-id="comedy-central" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/ComedyCentral.png" tvg-logo-small="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/ComedyCentral.png" ,Comedy Central
+https://super-cdn.link/comedycentral/index.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-id="curta" tvg-name="Curta!" tvg-logo="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/Curta!.png" tvg-logo-small="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/Curta!.png" ,Curta!
+https://super-cdn.link/curta/index.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-id="discovery-home-health" tvg-name="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/DiscoveryHome%26Health.png" tvg-logo-small="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/DiscoveryHome%26Health.png" ,Discovery Home & Health
+https://s1.embecdn.site/DISCOVERY_h&h/index.fmp4.m3u8
