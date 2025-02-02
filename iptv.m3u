@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/guiadetv.com/guiadetv.com.channels.xml"
 #EXTINF:-1 group-title="Variedades" tvg-id="arte-1" tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/Arte1.png" tvg-logo-small="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/Arte1.png" ,Arte 1
 https://super-cdn.link/arte1/index.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-id="bis" tvg-name="Bis" tvg-logo="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/Bis.png" tvg-logo-small="https://raw.githubusercontent.com/andrebrasil2002/001/refs/heads/main/Variedades/Bis.png" ,Bis
